@@ -1,0 +1,109 @@
+{
+  "restaurants": [
+    {
+      "name": "The Gourmet Grill",
+      "daily_revenue": 1200.50,
+      "total_items_served": 150
+    },
+    {
+      "name": "Spice Fusion",
+      "daily_revenue": 850.75,
+      "total_items_served": 120
+    },
+    {
+      "name": "Ocean's Delight",
+      "daily_revenue": 1000.30,
+      "total_items_served": 130
+    },
+    {
+      "name": "Sushi Sensation",
+      "daily_revenue": 950.20,
+      "total_items_served": 110
+    },
+    {
+      "name": "Pasta Paradise",
+      "daily_revenue": 1125.45,
+      "total_items_served": 140
+    },
+    {
+      "name": "Burger Haven",
+      "daily_revenue": 1100.10,
+      "total_items_served": 160
+    },
+    {
+      "name": "Taco Time",
+      "daily_revenue": 875.90,
+      "total_items_served": 100
+    },
+    {
+      "name": "Vegan Vibes",
+      "daily_revenue": 640.60,
+      "total_items_served": 85
+    },
+    {
+      "name": "Café Fusion",
+      "daily_revenue": 780.80,
+      "total_items_served": 95
+    },
+    {
+      "name": "Bistro Delights",
+      "daily_revenue": 950.00,
+      "total_items_served": 125
+    },
+    {
+      "name": "Grill Master",
+      "daily_revenue": 1050.75,
+      "total_items_served": 135
+    },
+    {
+      "name": "Pizzeria Italia",
+      "daily_revenue": 1150.50,
+      "total_items_served": 145
+    },
+    {
+      "name": "Steakhouse Supreme",
+      "daily_revenue": 1250.30,
+      "total_items_served": 155
+    },
+    {
+      "name": "Ramen World",
+      "daily_revenue": 900.40,
+      "total_items_served": 115
+    },
+    {
+      "name": "Salad Station",
+      "daily_revenue": 700.25,
+      "total_items_served": 90
+    },
+    {
+      "name": "Deli Delight",
+      "daily_revenue": 820.90,
+      "total_items_served": 105
+    },
+    {
+      "name": "Dim Sum Dynasty",
+      "daily_revenue": 950.10,
+      "total_items_served": 120
+    },
+    {
+      "name": "Noodle Nirvana",
+      "daily_revenue": 870.75,
+      "total_items_served": 110
+    },
+    {
+      "name": "Seafood Shack",
+      "daily_revenue": 1185.60,
+      "total_items_served": 140
+    },
+    {
+      "name": "BBQ Bliss",
+      "daily_revenue": 1050.20,
+      "total_items_served": 130
+    },
+    {
+      "name": "Sweets & Treats",
+      "daily_revenue": 650.90,
+      "total_items_served": 80
+    }
+  ]
+}
